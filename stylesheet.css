@@ -3,3 +3,24 @@
     display: flex;
     background: #1f2937;
 }
+.topheader {
+    position:relative;
+    display: flex;
+    flex-direction: row;
+    color: #f9faf8;
+}
+.bottomheader{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    padding-top: 150px;
+}
+.headerlink {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.links {
+    padding: 0px 50px 0px 50px;
+    display: flex;
+    flex-direction: row;
+}
