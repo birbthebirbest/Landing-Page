@@ -25,17 +25,20 @@
     color: #E5E7EB;
     font-size: 18px;
     font-weight: lighter;
+    flex-wrap: nowrap;
 }
 .logo {
     font-size: 24px;
     color: #f9faf8;
-    padding: 0px 50px 0px 0px;
+    padding: 0px 50px 0px 50px;
     font-weight: bold;
 }
 .Header-Link1 {
-    padding: 0, 20px, 0, 80px;
-    display: flex;
+    padding-right: 40px;
 
+}
+.Header-Link2 {
+    padding-right: 40px;
 }
 .alignpls {
     display: flex;
@@ -45,9 +48,17 @@
 .Big {
     font-size: 48px;
     font-weight: 900;
+    padding-left: 50px;
 }
 .Desc {
     color:#E5E7EB;
     font-size: 18px;
+    padding-left: 50px;
 
+}
+.euph {
+    padding-left: 250px;
+}
+.button {
+    padding-left: 50px;
 }
