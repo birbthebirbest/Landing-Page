@@ -91,3 +91,36 @@ body{
     text-align: center;
     padding-left: 450px;
 }
+.euphfacts{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    color: #1f2937;
+}
+.bluesquare{
+    border-color: #3882f6;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.factone{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.facttwo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.factthree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.factfour{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
