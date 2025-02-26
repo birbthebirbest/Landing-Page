@@ -139,4 +139,26 @@ body{
 .body_two{
     background-color: #E5E7EB;
     color:#1f2937;
+    height: 500px;
+}
+.quote{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    padding: 150px 250px 0px 300px;
+    font-style: italic;
+}
+.sousa{
+    padding: 50px 50px 0px 750px;
+}
+.body_three{
+    height: 400px;
+}
+.blueblock{
+    background-color: #3882f6;
+    height: 150px;
+    width: 800px;
+    border-radius: 5px;
+    display: flex;
+    align-self: center;
 }
