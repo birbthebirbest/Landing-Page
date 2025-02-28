@@ -171,6 +171,29 @@ body{
     font-size: 24px;
     color: white;
     display: flex;
+    position: relative;
+    padding-bottom: 50px;
 }
 .signup{
+    position:absolute;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+.buttontwo{
+    background: #3882f6;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 15px 0 15px;
+    margin: 50px 50px 50px 275px;
+    color: white;
 }
