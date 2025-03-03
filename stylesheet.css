@@ -154,7 +154,7 @@ body{
     font-size: 24px;
 }
 .body_three{
-    height: 400px;
+    height: 300px;
     font-family: 'Roboto';
 }
 .blueblock{
@@ -196,4 +196,15 @@ body{
     padding: 0 15px 0 15px;
     margin: 50px 50px 50px 275px;
     color: white;
+}
+.footer{
+    background-color: #1f2937;
+    height: 100px;
+    font-family: 'Roboto';
+    color:#f9faf8;
+}
+.copyright{
+    display: flex;
+    align-items: center;
+    padding: 30px 50px 0px 300px
 }
